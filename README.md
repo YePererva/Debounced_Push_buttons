@@ -10,7 +10,7 @@ This "mini-project" was inspired by [this tutorial](https://soldernerd.com/2014/
 
 | Top View	| Bottom View |
 | ----- | ----- |
-| ![Top](images\top.png) | ![Bottom](images\bottom.png) |
+| ![Top](images/top.png) | ![Bottom](images/bottom.png) |
 
 - overall dimensions: 1.0 in × 2.5 in
 - mounting holes spacing : 0.75 in × 2.25 in
