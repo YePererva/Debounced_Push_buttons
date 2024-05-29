@@ -11045,7 +11045,7 @@
 	(footprint "Symbol:OSHW-Logo_11.4x12mm_SilkScreen"
 		(layer "B.Cu")
 		(uuid "42e6b793-bd9a-45b4-b934-a9358fd08eed")
-		(at 92.456 63.5 -90)
+		(at 92.075 63.5 -90)
 		(descr "Open Source Hardware Logo")
 		(tags "Logo OSHW")
 		(property "Reference" "REF**"
@@ -12081,6 +12081,18 @@
 			(justify left mirror)
 		)
 	)
+	(gr_text "Hex Push-Buttons\nmodule with\nHardware Debouncer"
+		(at 69.85 63.5 90)
+		(layer "B.SilkS")
+		(uuid "69781d56-ef26-4492-9f96-a6967e48bc70")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1905)
+			)
+			(justify mirror)
+		)
+	)
 	(gr_text "C"
 		(at 83.82 53.594 90)
 		(layer "B.SilkS" knockout)
@@ -12146,6 +12158,42 @@
 			(justify left mirror)
 		)
 	)
+	(gr_text "E"
+		(at 110.49 63.5 0)
+		(layer "F.SilkS")
+		(uuid "25d4889a-f9db-46b7-a48c-67b8f2c6afd4")
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "C"
+		(at 54.61 68.58 0)
+		(layer "F.SilkS")
+		(uuid "28a1c418-91b9-42db-a493-1efcd3d32d9b")
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "F"
+		(at 110.49 68.58 0)
+		(layer "F.SilkS")
+		(uuid "2fac9e84-c8d5-4019-a350-7d7732986fec")
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+	)
 	(gr_text "A"
 		(at 78.74 53.848 0)
 		(layer "F.SilkS" knockout)
@@ -12154,6 +12202,18 @@
 			(font
 				(size 1.016 1.016)
 				(thickness 0.1905)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "D"
+		(at 110.49 58.42 0)
+		(layer "F.SilkS")
+		(uuid "3cc1ee81-6e70-4bfc-87fc-e3ef7bbc005b")
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
 				(bold yes)
 			)
 		)
@@ -12170,6 +12230,18 @@
 			)
 		)
 	)
+	(gr_text "B"
+		(at 54.61 63.5 0)
+		(layer "F.SilkS")
+		(uuid "6ce9949d-6a0f-4819-a1da-2f93354e06df")
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+	)
 	(gr_text "E"
 		(at 88.910358 53.807425 0)
 		(layer "F.SilkS" knockout)
@@ -12178,6 +12250,18 @@
 			(font
 				(size 1.016 1.016)
 				(thickness 0.1905)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "A"
+		(at 54.61 58.42 0)
+		(layer "F.SilkS")
+		(uuid "8029ba86-cbbd-4b1e-8ca1-f9f1fa7ba20b")
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
 				(bold yes)
 			)
 		)
